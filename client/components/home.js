@@ -5,7 +5,6 @@ import Main from './main'
 import Profile from './profile'
 import Dashboard from './dashboard'
 
-
 const Home = () => {
   return (
     <div>
